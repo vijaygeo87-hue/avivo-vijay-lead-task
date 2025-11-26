@@ -8,16 +8,16 @@
 
 <p align="center">
 
-  <img alt="Stars" src="https://img.shields.io/github/stars/evelinsteiger/README-template?style=social">
+  <img alt="Stars" src="https://img.shields.io/github/stars/vijaygeo87-hue/README-template?style=social">
   
-  <a href="https://github.com/evelinsteiger/README-template">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/evelinsteiger/README-template">
+  <a href="https://github.com/vijaygeo87-hue/README-template">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vijaygeo87-hue/README-template">
   </a>
     
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 
-  <a href="https://github.com/evelinsteiger/">
-    <img alt="made by Evelin Steiger" src="https://img.shields.io/badge/made%20by-Evelin%20Steiger-ff69b4">
+  <a href="https://github.com/vijaygeo87-hue/">
+    <img alt="made by Vijay" src="https://img.shields.io/badge/made%20by-Evelin%20Steiger-ff69b4">
   </a>
 </p>
 
@@ -69,7 +69,7 @@ In addition, it is good to have an editor to work with the code like [VSCode] (h
 ```bash
 
 # Clone this repository
-$ git clone git@github.com: evelinsteiger / README-template.git
+$ git clone git@github.com: vijaygeo87-hue / README-template.git
 
 # Access the project folder in your terminal
 $ cd README-template
@@ -105,7 +105,7 @@ The following tools were used in the construction of the project:
 - **[sass](https://github.com/sass/dart-sass)**
 - **[Styled Components](https://github.com/styled-components/styled-components)**
 
-> See the file [package.json](https://github.com/evelinsteiger/README-template/blob/master/package.json)
+> See the file [package.json](https://github.com/vijaygeo87-hue/README-template/blob/master/package.json)
 
 #### [](#)**Utils**
 
@@ -119,12 +119,12 @@ The following tools were used in the construction of the project:
 
 ## Author
 
-<a href="https://www.linkedin.com/in/evelinsteiger/">
+<a href="https://www.linkedin.com/in/vijaygeo87-hue/">
  <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4E03AQFY3bB4gWUEVw/profile-displayphoto-shrink_200_200/0/1638286563108?e=1651708800&v=beta&t=WQhkU4GF5vPmHiAb788WkvXJaXnyKhYz5oarqqcfGBA" width="70px;" alt="Evelin Steiger"/>
  <br />
  <p><b>Evelin Steiger</b></p></a>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Evelin%20Steiger-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evelinsteiger/)](https://www.linkedin.com/in/evelinsteiger/)
+[![Linkedin Badge](https://img.shields.io/badge/-Evelin%20Steiger-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vijaygeo87-hue/)](https://www.linkedin.com/in/vijaygeo87-hue/)
 
 ---
 
@@ -132,7 +132,7 @@ The following tools were used in the construction of the project:
 
 This project is under the license [MIT](./LICENSE).
 
-Made with love by Evelin Steiger 👋🏽 [Get in Touch!](https://www.linkedin.com/in/evelinsteiger/)
+Made with love by Evelin Steiger 👋🏽 [Get in Touch!](https://www.linkedin.com/in/vijaygeo87-hue/)
 
 ---
 
