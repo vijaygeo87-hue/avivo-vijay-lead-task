@@ -36,27 +36,21 @@
 
 ## About
 
-PROJECT - Is a way to help build a new project in React using a folder structure and pre-assembled and customized components.
+PROJECT - Is a way to help build a new CRUD application in React using React Redux, Hooks, Axios, Chakra UI to assess development skills as part of the first rounds.
 
 ---
 
 ## Features
 
-- [x] Users will be able to access via token
-- [x] Packages can be registered on the web platform by sending:
-- [x] title
-- [x] description
+- [x] Display User List: Show fields such as name, company name, role and country.
+- [x] Refresh Button: Add a button to refresh the user list by fetching it again.
+- [x] Search Box: Allow filtering users by name, company name, role or country.
+- [x] Add User: Include a "+" button to add a static user record to a local array (does not interact with the API).
+- [x] Delete User: Provide a "Delete" button to remove users from the displayed list (local state only).
 
 ---
 
-## How it works
 
-The project is divided into two parts:
-
-1. Backend (another repo)
-2. Frontend (this repo)
-
-But this repository is referring only to the Frontend part. Frontend need the Backend to be running to work.
 
 ### Pre-requisites
 
@@ -68,17 +62,17 @@ In addition, it is good to have an editor to work with the code like [VSCode] (h
 
 ```bash
 
-# Clone this repository
-$ git clone git@github.com: vijaygeo87-hue / README-template.git
+# Clone this repository using GitHub CLI
+$gh repo clone vijaygeo87-hue/avivo-vijay-lead-task
 
 # Access the project folder in your terminal
-$ cd README-template
+$ cd folder-name
 
 # Install the dependencies
-$ yarn
+$ npm install --legacy-peer-deps
 
 # Run the application in development mode
-$ yarn start
+$ npm start
 
 # The application will open on the port: 3000 - go to http://localhost:3000
 
@@ -90,41 +84,24 @@ $ yarn start
 
 The following tools were used in the construction of the project:
 
-#### **Platform** ([React](https://reactjs.org/) + [TypeScript](https://www.typescriptlang.org/))
+#### **Platform** ([React](https://reactjs.org/)
 
 - **[React Router Dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
 - **[React Icons](https://react-icons.github.io/react-icons/)**
 - **[Axios](https://github.com/axios/axios)**
-- **[Leaflet](https://react-leaflet.js.org/en/)**
-- **[React Leaflet](https://react-leaflet.js.org/)**
 - **[React Redux](https://github.com/reduxjs/react-redux)**
-- **[AntDesign](https://ant.design/)**
-- **[react-device-detect](https://github.com/duskload/react-device-detect)**
+- **[React Hooks](https://react.dev/reference/react/hooks)**
+- **[Chakra UI](https://github.com/chakra-ui/chakra-ui)**
+- **[Redux Toolkit](https://redux-toolkit.js.org/)**
 - **[moment.js](https://momentjs.com/)**
-- **[Bootstrap](https://getbootstrap.com/)**
-- **[sass](https://github.com/sass/dart-sass)**
-- **[Styled Components](https://github.com/styled-components/styled-components)**
 
-> See the file [package.json](https://github.com/vijaygeo87-hue/README-template/blob/master/package.json)
+> See the file [package.json](https://github.com/vijaygeo87-hue/avivo-vijay-lead-task/blob/main/package.json)
 
-#### [](#)**Utils**
 
-- API: **[IBGE API](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1)** → **[API de UFs](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1#api-UFs-estadosGet)**, **[API de Municípios](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1#api-Municipios-estadosUFMunicipiosGet)**
-- Maps: **[Leaflet](https://react-leaflet.js.org/en/)**
-- Editor: **[Visual Studio Code](https://code.visualstudio.com/)**
-- Icons: **[Feather Icons](https://feathericons.com/)**, **[Font Awesome](https://fontawesome.com/)**
-- Fonts: **[Ubuntu](https://fonts.google.com/specimen/Ubuntu)**, **[Roboto](https://fonts.google.com/specimen/Roboto)**
 
 ---
 
-## Author
 
-<a href="https://www.linkedin.com/in/vijaygeo87-hue/">
- <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4E03AQFY3bB4gWUEVw/profile-displayphoto-shrink_200_200/0/1638286563108?e=1651708800&v=beta&t=WQhkU4GF5vPmHiAb788WkvXJaXnyKhYz5oarqqcfGBA" width="70px;" alt="Evelin Steiger"/>
- <br />
- <p><b>Evelin Steiger</b></p></a>
-
-[![Linkedin Badge](https://img.shields.io/badge/-Evelin%20Steiger-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vijaygeo87-hue/)](https://www.linkedin.com/in/vijaygeo87-hue/)
 
 ---
 
@@ -132,7 +109,6 @@ The following tools were used in the construction of the project:
 
 This project is under the license [MIT](./LICENSE).
 
-Made with love by Evelin Steiger 👋🏽 [Get in Touch!](https://www.linkedin.com/in/vijaygeo87-hue/)
 
 ---
 

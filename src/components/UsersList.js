@@ -1,6 +1,5 @@
 import { React, useEffect, useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
-import { fetchUsers, deleteUser, searchUser, createUser } from '../services/userMethods';
 import {   Box,Table, Thead, Tbody, Tr, Th, Td, TableContainer, 
           IconButton, Button, ButtonGroup,
           Input, InputGroup, InputLeftElement, InputRightElement, 
@@ -8,7 +7,9 @@ import {   Box,Table, Thead, Tbody, Tr, Th, Td, TableContainer,
            FormControl,FormLabel,useDisclosure,FormErrorMessage, useToast 
        } from "@chakra-ui/react";
 import { DeleteIcon, SearchIcon, CloseIcon } from '@chakra-ui/icons';
-import { RiRefreshLine, RiUserAddFill, RiUserSearchFill } from "react-icons/ri"
+import { RiRefreshLine, RiUserAddFill, RiUserSearchFill } from "react-icons/ri";
+
+import { fetchUsers, deleteUser, searchUser, createUser } from '../services/userMethods';
 
 const UsersList = () => {
   const dispatch = useDispatch();
