@@ -44,8 +44,8 @@ PROJECT - Is a way to help build a new project in React using a folder structure
 
 - [x] Users will be able to access via token
 - [x] Packages can be registered on the web platform by sending:
-  - [x] title
-  - [x] description
+- [x] title
+- [x] description
 
 ---
 
