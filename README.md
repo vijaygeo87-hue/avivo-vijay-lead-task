@@ -6,21 +6,6 @@
 
 <h3 align="center">First Round Development Task in React!</h3>
 
-<p align="center">
-
-  <img alt="Stars" src="https://img.shields.io/github/stars/vijaygeo87-hue/README-template?style=social">
-  
-  <a href="https://github.com/vijaygeo87-hue/README-template">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vijaygeo87-hue/README-template">
-  </a>
-    
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-
-  <a href="https://github.com/vijaygeo87-hue/">
-    <img alt="made by Vijay" src="https://img.shields.io/badge/made%20by-Evelin%20Steiger-ff69b4">
-  </a>
-</p>
-
 <h4 align="center"> 
 	 Status: Finished
 </h4>
